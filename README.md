@@ -1,5 +1,5 @@
 # Pandas_Challenge
-Analysis of school district data
+Analysis of School District Data
 This program analyzes standardized test results across a school district. The records include the every student's math and reading scores, as well as various information on the schools they attend. Passing grades are anything over 70 (C-)
 
 District Summary
